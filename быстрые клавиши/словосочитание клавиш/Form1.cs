@@ -32,7 +32,7 @@ namespace словосочитание_клавиш
         }
     }
 
-
+    
  
     public partial class Form1 : Form
     {

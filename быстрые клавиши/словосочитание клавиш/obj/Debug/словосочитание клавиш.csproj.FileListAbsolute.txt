@@ -7,3 +7,12 @@ c:\users\роман\documents\visual studio 2017\Projects\словосочита
 c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание клавиш.exe
 c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание клавиш.pdb
 c:\users\роман\documents\visual studio 2017\Projects\словосочитание клавиш\словосочитание клавиш\obj\Debug\словосочитание_клавиш.KeyboardSend.resources
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\bin\Debug\словосочитание клавиш.exe.config
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\bin\Debug\словосочитание клавиш.exe
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\bin\Debug\словосочитание клавиш.pdb
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\obj\Debug\словосочитание клавиш.csprojResolveAssemblyReference.cache
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\obj\Debug\словосочитание_клавиш.KeyboardSend.resources
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\obj\Debug\словосочитание_клавиш.Properties.Resources.resources
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\obj\Debug\словосочитание клавиш.csproj.GenerateResource.Cache
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\obj\Debug\словосочитание клавиш.exe
+C:\Users\роман\Desktop\build-Serial_RGB_Qt-Desktop_Qt_5_10_0_MSVC2017_64bit-Debug\быстрые клавиши\словосочитание клавиш\obj\Debug\словосочитание клавиш.pdb
