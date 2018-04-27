@@ -15,6 +15,7 @@ namespace словосочитание_клавиш
         public Form2()
         {
             InitializeComponent();
+            Form2 fg = new Form2();
         }
     }
 }
